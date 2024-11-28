@@ -13,14 +13,18 @@ Soy un **desarrollador apasionado** con experiencia en el desarrollo de solucion
   - Python  
 
 - 🛠️ **Tecnologías y Herramientas:**  
-  - 🗃️ Bases de datos: MySQL  
-  - 📊 Inteligencia de Negocios (BI): Desarrollo de soluciones que transforman datos en conocimiento.  
-  - 📈 Stack ELK (Elasticsearch, Logstash, Kibana): Manejo de grandes volúmenes de datos, consultas avanzadas y visualización.  
+  - 🗃️ **Bases de datos:** MySQL  
+  - 📊 **Inteligencia de Negocios (BI):** Desarrollo de soluciones que transforman datos en conocimiento.  
+  - 📈 **Stack ELK:** Elasticsearch, Logstash y Kibana para consultas avanzadas y visualización de datos.  
+  - 📦 **Docker:** Creación de entornos consistentes y despliegues eficientes.  
+  - 🔗 **Apache Kafka:** Diseño de pipelines de datos en tiempo real.  
+  - ⚙️ **HashiCorp Nomad:** Orquestación de aplicaciones para entornos distribuidos.  
 
 - 🎯 **Áreas de Interés:**  
   - Desarrollo de software a medida.  
-  - Data analytics y visualización.  
-  - Optimización de procesos empresariales mediante herramientas tecnológicas.  
+  - Arquitecturas distribuidas y escalables.  
+  - Procesamiento de datos en tiempo real y análisis avanzado.  
+  - Optimización de procesos empresariales mediante herramientas tecnológicas.   
 
 ---
 
