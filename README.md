@@ -35,5 +35,5 @@ Siempre estoy buscando oportunidades para aprender, compartir conocimientos y co
 ---
 
 ## 🌐 Conéctate conmigo  
-- 💼 [LinkedIn](www.linkedin.com/in/jeisson-araque-0b01948a)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jeisson-araque/)  
 
