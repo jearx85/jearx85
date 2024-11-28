@@ -1,6 +1,4 @@
-<img src="jearx3.jfif" alt="Mi genial imagen" width=100% height=500/>
-
-# Hola mundo 
+<h1 style="color: lightblue; font-size: 45px;">Hola mundo</h1> 
 
 <img src="avatar.png" alt="Mi genial imagen" width=50 height=50/> 👋 ¡Hola! Soy Jeisson Araque 
 
