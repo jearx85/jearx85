@@ -1,4 +1,4 @@
-<img src="jearx3.jfif" alt="Mi genial imagen" width=100% height=400/>
+<img src="jearx3.jfif" alt="Mi genial imagen" width=100% height=500/>
 
 # Hola mundo 
 
